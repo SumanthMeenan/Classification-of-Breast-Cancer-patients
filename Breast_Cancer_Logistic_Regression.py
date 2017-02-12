@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 04 22:44:18 2016
-
-@author: yadav
-"""
-
 import numpy as np
 
 from sklearn import linear_model, svm
